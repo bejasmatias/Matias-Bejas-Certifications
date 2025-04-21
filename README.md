@@ -6,8 +6,6 @@ Certifications
 
 Certified Tech Developer — Digital House Issued: January 2023
 
-Front End Specialist — Digital House Issued: June 2023
-
 Data Process (SQL) — QG S.R.L. Issued: August 2022
 
 Introduction to Cybersecurity — Cisco Networking Academy Issued: August 2022
